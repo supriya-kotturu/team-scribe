@@ -44,13 +44,6 @@ Clone both server and client repositories to run it locally.
 
 ## Demo
 
-[Download Video](./assets/plivo.mp4)
-
-<video width="320" height="240" controls>
-  <source src="./assets/plivo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to the Team Scribe, please fork the repository and submit a pull request. Make sure to follow our coding guidelines.
