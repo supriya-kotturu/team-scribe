@@ -44,6 +44,9 @@ Clone both server and client repositories to run it locally.
 
 ## Demo
 
+https://github.com/user-attachments/assets/cf090a03-9993-401b-842a-1dc0f3c5721c
+
+
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to the Team Scribe, please fork the repository and submit a pull request. Make sure to follow our coding guidelines.
