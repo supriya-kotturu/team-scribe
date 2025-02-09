@@ -2,24 +2,24 @@
 
 **Team Scribe** is a powerful and user-friendly platform designed to enhance teamwork and productivity by allowing users to create, edit, and share notes in real-time. Whether you’re working on a project with colleagues, studying with classmates, or planning an event with friends, our app provides a seamless environment for collaboration and organization.
 
-## Features
+## Todo
 
-- **Real-time Collaboration**: Work together with others on notes simultaneously and see changes as they happen.
-- **Rich Text Editing**: Format your notes with ease using a variety of text styles (bold, italic, headings, lists).
-- **Commenting and Feedback**: Leave comments on specific parts of notes for clear communication and feedback.
-- **Version History**: Track changes over time and revert to previous versions if necessary.
-- **Task Management**: Add to-do lists and assign tasks to team members to keep projects on track.
-- **Cross-Platform Sync**: Access your notes from any device, anywhere, ensuring you never miss a detail.
-- **User-Friendly Interface**: Intuitive design that makes it easy for anyone to start collaborating instantly.
+- [x] basic socket.io integration with invite URL
+- [ ] persistant storage of users and their notes
+- [ ] notes list
+- [ ] authentication
 
 ## Getting Started
 
 To get started with the Team Scribe, follow these steps:
 
+Clone both server and client repositories to run it locally.
+
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/supriya-kotturu/team-scribe.git
+   git clone https://github.com/supriya-kotturu/team-scribe-server.git
    ```
 
 2. Navigate into the project directory:
@@ -37,7 +37,7 @@ To get started with the Team Scribe, follow these steps:
 4. Start the development server:
 
    ```bash
-   yarn dev
+   yarn run dev
    ```
 
 5. Open your browser and go to `http://localhost:3000` to start using the app!
