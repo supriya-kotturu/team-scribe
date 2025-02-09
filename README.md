@@ -42,6 +42,15 @@ Clone both server and client repositories to run it locally.
 
 5. Open your browser and go to `http://localhost:3000` to start using the app!
 
+## Demo
+
+[Download Video](./assets/plivo.mp4)
+
+<video width="320" height="240" controls>
+  <source src="./assets/plivo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to the Team Scribe, please fork the repository and submit a pull request. Make sure to follow our coding guidelines.
@@ -49,7 +58,3 @@ We welcome contributions! If you'd like to contribute to the Team Scribe, please
 ## License
 
 This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this description to better match your app's specific features and goals!
